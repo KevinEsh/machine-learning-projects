@@ -1,2 +1,2 @@
 # machine-learning-projects
-Miscelanius for machine learning projects
+Miscelaneos of machine learning projects
